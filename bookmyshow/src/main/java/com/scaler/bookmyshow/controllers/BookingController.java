@@ -8,6 +8,6 @@ public class BookingController {
 
     public BookMovieResponseDto bookMovie(BookMovieRequestDto request) {
 
-
+System.out.print("Hi world");
     }
 }
